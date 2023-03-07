@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Isaac Vásquez</h1>
 <h3 align="center">A passionate student from Palma de Mallorca</h3>
 
-![image](https://github.com/isaacvt01/imagenes/blob/fc848696aa13a3903e8a8866501c370adcdb973d/giphy.gif)
+<p align="center">
+  <img src="https://github.com/isaacvt01/imagenes/blob/fc848696aa13a3903e8a8866501c370adcdb973d/giphy.gif" alt="animated" />
+</p>
+
 
 
 
